@@ -1,0 +1,12 @@
+{
+  "name": "mobilewrightdemo",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@mobilewright/test": "^0.0.60",
+    "mobilewright": "^0.0.60"
+  },
+  "scripts": {
+    "test": "mobilewright test"
+  }
+}
